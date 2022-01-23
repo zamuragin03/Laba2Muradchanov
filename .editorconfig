@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0066: Преобразовать оператор switch в выражение
+dotnet_diagnostic.IDE0066.severity = silent
